@@ -1,0 +1,6 @@
+BAHASA PEMROGRAMAN
+
+- JAVA
+- PHP
+  * Belajar PHP Dasar atau basic
+- JAVASCRIPT
