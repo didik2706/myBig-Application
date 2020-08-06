@@ -2,7 +2,8 @@ BAHASA PEMROGRAMAN
 
 - JAVA
 - PHP
-  * Belajar PHP Dasar atau basic
+  * Belajar Framework PHP
+   - Codeignaiter
 - JAVASCRIPT
  - Belajar Framework
   ^ Belajar Vue.js
