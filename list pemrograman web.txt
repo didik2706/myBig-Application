@@ -4,4 +4,8 @@ BAHASA PEMROGRAMAN
 - PHP
   * Belajar PHP Dasar atau basic
 - JAVASCRIPT
+ - Belajar Framework
+  ^ Belajar Vue.js
+  ^ Belajar React.js
 - Python
+ - Belajar OOP 
