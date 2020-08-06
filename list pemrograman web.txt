@@ -6,5 +6,6 @@ BAHASA PEMROGRAMAN
 - JAVASCRIPT
  - Belajar Framework
   ^ Belajar Vue.js
+  ^ Belajar React.js
 - Python
  - Belajar OOP 
