@@ -6,6 +6,7 @@ BAHASA PEMROGRAMAN
    - Codeignaiter
 - JAVASCRIPT
  - Belajar Framework
-  * Angular.js
-  * React.js
+  ^ Belajar Vue.js
+  ^ Belajar React.js
 - Python
+ - Belajar OOP 
