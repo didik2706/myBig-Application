@@ -4,3 +4,4 @@ BAHASA PEMROGRAMAN
 - PHP
   * Belajar PHP Dasar atau basic
 - JAVASCRIPT
+- Python
