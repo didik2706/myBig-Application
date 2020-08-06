@@ -2,6 +2,10 @@ BAHASA PEMROGRAMAN
 
 - JAVA
 - PHP
-  * Belajar PHP Dasar atau basic
+  * Belajar Framework PHP
+   - Codeignaiter
 - JAVASCRIPT
+ - Belajar Framework
+  * Angular.js
+  * React.js
 - Python
